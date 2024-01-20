@@ -6,5 +6,5 @@
 + 实验五：peviewer，主要是熟悉 PE 文件结构
 + 实验六：re_challenge,通过反汇编代码来解密
 + 实验七：re_exercises_advanced，这个实验是有改动的，和往届的不一样，主要通过反汇编伪代码来解题，有点难
-+ 实验八：CaptureTheFlag，通过修改程序然后夺旗
++ 实验八：CaptureTheFlag，通过修改程序然后夺旗  
 如果我的作业对你有用，希望star一下，谢谢！
